@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  I am currently working to become a Fullstack web developer at Haugaland Videregående skole🏛 I love learning new Technologies and languages, especially if i can use them on a personal project💡 My current favourite programming sector is Fullstack-Web Development💻 
+  I am currently working to become a Fullstack web developer at Haugaland Videregående skole🏛 I love learning new Technologies and languages, especially if i can use them on a personal project💡 My current favourite programming sector is Fullstack-Web Development, even though I started out learning python💻
 </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
@@ -37,6 +37,19 @@
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
     <img src="https://img.shields.io/badge/-VIM-black?style=flat-square&logo=vim"/>
 </p>
+
+
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/snorresovold/snorresovold/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snorresovold&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
