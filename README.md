@@ -29,7 +29,9 @@
     <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript"/>
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-    <img src="https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=postgrespl"/>
+    <img src="https://img.shields.io/badge/-React_Router-black?style=flat-square&logo=React-Router"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgrespl"/>
+    <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite"/>
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=django"/>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
