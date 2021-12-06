@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgrespl"/>
     <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite"/>
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=django"/>
+    <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"/>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
     <img src="https://img.shields.io/badge/-VIM-black?style=flat-square&logo=vim"/>
