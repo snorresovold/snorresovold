@@ -44,10 +44,19 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snorresovold&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=snorresovold&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=snorresovold&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snorresovold&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snorresovold&show_icons=true&theme=radical)](https://git.io/streak-stats)
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=snorresovold&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=snorresovold&theme=redical">
+</p> 
+<hr>
 <!--
 **snorresovold/snorresovold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
