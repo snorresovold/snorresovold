@@ -19,7 +19,7 @@
   I am currently working to become a Fullstack web developer at Haugaland Videregående skole🏛 I love learning new Technologies and languages, especially if i can use them on a personal project💡 My current favourite programming sector is Fullstack-Web Development, even though I started out learning python💻
 </p>
 
-<h2 align="center">Technology Stack</h2>
+<h2 align="center">Technolgies I know </h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
