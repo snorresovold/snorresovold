@@ -34,6 +34,8 @@
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=django"/>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=vim"/>
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=batch"/>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snorresovold&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
