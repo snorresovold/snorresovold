@@ -1,4 +1,6 @@
 [![MasterHead](banner.png)](https://github.com/snorresovold)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snorresovold)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **snorresovold/snorresovold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
