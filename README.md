@@ -30,12 +30,11 @@
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=postgrespl"/>
-    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=python"/>
+    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=django"/>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=vim"/>
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=batch"/>
+    <img src="https://img.shields.io/badge/-VIM-black?style=flat-square&logo=vim"/>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snorresovold&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
