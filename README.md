@@ -1,8 +1,7 @@
-[![MasterHead]https://media.istockphoto.com/vectors/vector-retro-1980s-space-astroanut-in-vaporwave-background-stock-vector-id1208669307?k=20&m=1208669307&s=170667a&w=0&h=kIaceXDVFZFVbao6fp75_1nkkbtrVFJkmfyXy6RyYIk=](your GitHub link)
+[![MasterHead].https://media.istockphoto.com/vectors/vector-retro-1980s-space-astroanut-in-vaporwave-background-stock-vector-id1208669307?k=20&m=1208669307&s=170667a&w=0&h=kIaceXDVFZFVbao6fp75_1nkkbtrVFJkmfyXy6RyYIk=](your GitHub link)
 
 
 ### Hi there 👋
-https://media.istockphoto.com/vectors/vector-retro-1980s-space-astroanut-in-vaporwave-background-stock-vector-id1208669307?k=20&m=1208669307&s=170667a&w=0&h=kIaceXDVFZFVbao6fp75_1nkkbtrVFJkmfyXy6RyYIk=
 
 <!--
 **snorresovold/snorresovold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
