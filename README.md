@@ -13,6 +13,9 @@
  <img src="https://badges.pufler.dev/repos/snorresovold"/>
  <img src="https://badges.pufler.dev/commits/monthly/snorresovold" />
 
+hello people
+
+
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snorresovold&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
