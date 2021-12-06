@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.wallpapersafari.com/97/93/LtZR32.png)](https://github.com/snorresovold)
+[![MasterHead](banner.png)](https://github.com/snorresovold)
 
 <!--
 **snorresovold/snorresovold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
