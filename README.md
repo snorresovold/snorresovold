@@ -54,7 +54,6 @@
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=snorresovold&theme=redical">
 </p> 
 <hr>
 <!--
