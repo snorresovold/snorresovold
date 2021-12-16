@@ -8,9 +8,9 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/snorresovold/snorresovold"/> 
+ <img src="https://badges.pufler.dev/visits/snorresovold/snorresovold" /> 
  <!-- <img src="https://badges.pufler.dev/years/snorresovold"/> -->
- <img src="https://badges.pufler.dev/repos/snorresovold"/>
+ <img src="https://badges.pufler.dev/repos/snorresovold" />
  <img src="https://badges.pufler.dev/commits/monthly/snorresovold" />
 
 </p>
