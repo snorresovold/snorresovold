@@ -45,15 +45,6 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=snorresovold&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=snorresovold&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=snorresovold&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p>
-
-<p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=snorresovold&theme=redical">
 </p> 
 <hr>
