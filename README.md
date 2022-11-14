@@ -31,12 +31,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/snorresovold/github-stats/tree/master/generated/languages.svg" />
-  <img src="https://github.com/snorresovold/github-stats/tree/master/generated/overview.svg" />
-
-</p>
-
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=snorresovold&theme=redical">
 </p> 
