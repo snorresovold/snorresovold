@@ -1,8 +1,8 @@
 [![MasterHead](banner.png)](https://github.com/snorresovold)
 
 <p align="center">
-![](https://github.com/snorresovold/github-stats/tree/master/generated/languages.svg)
-![](https://github.com/snorresovold/github-stats/tree/master/generated/overview.svg)
+<img src="https://github.com/snorresovold/github-stats/tree/master/generated/languages.svg" />
+<img src="https://github.com/snorresovold/github-stats/tree/master/generated/overview.svg" />
 
  <img src="https://badges.pufler.dev/visits/snorresovold/snorresovold" /> 
  <!-- <img src="https://badges.pufler.dev/years/snorresovold"/> -->
