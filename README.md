@@ -4,8 +4,8 @@
 
 
 [![MasterHead](banner.png)](https://github.com/snorresovold)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/snorresovold/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/snorresovold/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/snorresovold/snorresovold" /> 
