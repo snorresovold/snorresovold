@@ -4,11 +4,6 @@
 <img src="https://github.com/snorresovold/github-stats/tree/master/generated/languages.svg" />
 <img src="https://github.com/snorresovold/github-stats/tree/master/generated/overview.svg" />
 
- <img src="https://badges.pufler.dev/visits/snorresovold/snorresovold" /> 
- <!-- <img src="https://badges.pufler.dev/years/snorresovold"/> -->
- <img src="https://badges.pufler.dev/repos/snorresovold" />
- <img src="https://badges.pufler.dev/commits/monthly/snorresovold" />
-
 </p>
 
 <p align="center">
