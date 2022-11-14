@@ -1,10 +1,6 @@
 [![MasterHead](banner.png)](https://github.com/snorresovold)
 
-<p align="center">
-<img src="https://github.com/snorresovold/github-stats/tree/master/generated/languages.svg" />
-<img src="https://github.com/snorresovold/github-stats/tree/master/generated/overview.svg" />
 
-</p>
 
 <p align="center">
   I am currently working to become a Fullstack web developer at Haugaland Videregående skole🏛 I love learning new Technologies and languages, especially if i can use them on a personal project💡 My current favourite programming sector is Fullstack-Web Development, even though I started out learning python💻
@@ -39,3 +35,9 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=snorresovold&theme=redical">
 </p> 
 <hr>
+
+<p align="center">
+  <img src="https://github.com/snorresovold/github-stats/tree/master/generated/languages.svg" />
+  <img src="https://github.com/snorresovold/github-stats/tree/master/generated/overview.svg" />
+
+</p>
