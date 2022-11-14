@@ -5,7 +5,10 @@
 
 [![MasterHead](banner.png)](https://github.com/snorresovold)
 
-
+<a href="https://github.com/snorresovold/github-stats">
+<img src="https://github.com/snorresovold/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/snorresovold/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/snorresovold/snorresovold" /> 
