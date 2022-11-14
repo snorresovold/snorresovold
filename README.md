@@ -1,13 +1,8 @@
-<p align="center">
-
-</p>
-
-
 [![MasterHead](banner.png)](https://github.com/snorresovold)
 
 <p align="center">
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/snorresovold/github-stats/tree/master/generated/languages.svg)
+![](https://github.com/snorresovold/github-stats/tree/master/generated/overview.svg)
 
  <img src="https://badges.pufler.dev/visits/snorresovold/snorresovold" /> 
  <!-- <img src="https://badges.pufler.dev/years/snorresovold"/> -->
