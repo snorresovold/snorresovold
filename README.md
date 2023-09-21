@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Snorre</h1>
-<h3 align="center">Norwegian fullstack developer and student at Haugaland VGS</h3>
 
 - 👨‍💻 A few of my projects are available at [sneards.com](sneards.com)
 
